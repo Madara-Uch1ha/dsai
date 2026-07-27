@@ -19,8 +19,9 @@ Explore these recommended books to enhance your understanding:
   A comprehensive resource for statistical theory and its applications.
 -->
 
-- **[Fundamentals of Database Systems by Elmasri and Navathe ~ 4th edition](http://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Database_Systems.pdf)** \
-Chapters 2,3, 5,6, 7.1,8,10,11,14,17,18
+- **[Fundamentals of Database Systems by Elmasri and Navathe, 7th edition](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-database-systems/P200000003546/9780137502523)** \
+  Official publisher page. Focus on ER modelling, relational models and SQL,
+  normalization, file organization, indexing, and data warehousing.
 - [**"Data Mining Book (Third Edition)"**](https://www.sku.ac.ir/Datafiles/BookLibrary/43/Data-Mining-Concepts-and-Techniques-Han.pdf) \
   Jiawei Han(University of Illinois at Urbana–Champaign),Micheline Kamber,Jian Pei(Simon Fraser University)\
   A comprehensive resource for theory and its applications.
@@ -61,7 +62,7 @@ Read insightful articles to gain additional insights:
 Test your knowledge and skills with these practice problems:
 - **[Gate CSE PYQ on DBMS](https://practicepaper.in/gate-cse/database-management-system)**
 - **[SQL Practice](https://github.com/wangruinju/SQL_Resources/blob/master/Stanford%20SQL%20practice/SQL%20exercise.Rmd)** A standard GitHub repo containing good variety of questions on SQL Query
-- **[Relational Algebra Questions](http://openclassroom.stanford.edu/MainFolder/courses/cs145/old-site/docs/backup/ra-exercises.html)** Some Standard Questions on RA by Stanford
+- **[Stanford CS145: Introduction to Databases](https://web.stanford.edu/class/cs145/)** for database course material and exercises.
   
 ---
 
@@ -72,4 +73,3 @@ Test your knowledge and skills with these practice problems:
 * [Notes](#notes)  
 * [Articles](#articles)  
 * [Practice Problems](#practice-problems)
-

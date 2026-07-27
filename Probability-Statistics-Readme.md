@@ -11,7 +11,7 @@ Table of Contents
 
 ### The only Probability and Statistics cheatsheet that you''ll ever need
 
-[<img src="Data/Probability-Statistics/stat_cheatsheet.png">](http://www.wzchen.com/probability-cheatsheet)
+[<img src="Data/Probability-Statistics/stat_cheatsheet.png">](https://www.wzchen.com/probability-cheatsheet)
 > [Download Full Pdf](Data/Probability-Statistics/probability_cheatsheet.pdf)
  
 Credits : Joe Blitzstein [stat110](https://twitter.com/stat110) - Professor of Statistics at Harvard, Instructor of [Harvard's Stat 110 course](https://projects.iq.harvard.edu/stat110/) (Probability).
@@ -96,14 +96,3 @@ Test your knowledge and skills with these practice problems:
 - **[Assignment Questions from NPTEL Course: MCQs](https://nptel.ac.in/courses/106104233)** 🌟 🌟 Important
 
 ---
-
-<<<<<<< main
-#### <a name="table-of-contents"></a>Table of Contents
-
-* [Books](#books)  
-* [NPTEL and MOOCs Courses](#course)  
-* [Notes](#notes)
-* [Concept Visualisation](#concept-visualisation)
-* [Articles](#articles)  
-* [Practice Problems](#practice-problems)
-=======
